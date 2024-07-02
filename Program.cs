@@ -11,7 +11,7 @@ namespace AssemblyIsolatedStorageBug
             LibraryClass.ReadDir(GetStore);
         }
 
-        public static void CreateDir()
+        private static void CreateDir()
         {
             var store = GetStore();
             store.CreateDirectory(LibraryClass.Test);

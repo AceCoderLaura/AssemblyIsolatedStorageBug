@@ -3,7 +3,7 @@ using System.IO.IsolatedStorage;
 
 namespace ClassLibrary
 {
-    public class LibraryClass
+    public static class LibraryClass
     {
         public const string Test = "test";
 
