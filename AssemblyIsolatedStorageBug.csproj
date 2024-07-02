@@ -8,8 +8,8 @@
         <ProjectGuid>{77F16907-155C-4239-A0D9-C7EBDD6D7FE9}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>DomainIsolatedStorageBug</RootNamespace>
-        <AssemblyName>DomainIsolatedStorageBug</AssemblyName>
+        <RootNamespace>AssemblyIsolatedStorageBug</RootNamespace>
+        <AssemblyName>AssemblyIsolatedStorageBug</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

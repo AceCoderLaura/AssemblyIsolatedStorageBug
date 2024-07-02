@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainIsolatedStorageBug", "DomainIsolatedStorageBug.csproj", "{77F16907-155C-4239-A0D9-C7EBDD6D7FE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyIsolatedStorageBug", "AssemblyIsolatedStorageBug.csproj", "{77F16907-155C-4239-A0D9-C7EBDD6D7FE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{5027C0FA-0577-4D64-B459-1D27F1227E11}"
 EndProject

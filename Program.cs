@@ -1,7 +1,7 @@
 ﻿using System.IO.IsolatedStorage;
 using ClassLibrary;
 
-namespace DomainIsolatedStorageBug
+namespace AssemblyIsolatedStorageBug
 {
     public class Program
     {
